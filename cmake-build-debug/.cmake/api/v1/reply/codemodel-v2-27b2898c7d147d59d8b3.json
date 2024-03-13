@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/littlehamburger/\u684c\u9762/C_Language_Learning/test2/cmake-build-debug",
-		"source" : "/home/littlehamburger/\u684c\u9762/C_Language_Learning/test2"
+		"build" : "/home/littlehamburger/\u684c\u9762/C_Language_Learning/gitlearn/ReapositoryTest/cmake-build-debug",
+		"source" : "/home/littlehamburger/\u684c\u9762/C_Language_Learning/gitlearn/ReapositoryTest"
 	},
 	"version" : 
 	{

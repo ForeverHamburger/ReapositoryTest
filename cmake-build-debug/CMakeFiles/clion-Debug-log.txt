@@ -1,4 +1,13 @@
-/home/littlehamburger/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/littlehamburger/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/littlehamburger/桌面/C_Language_Learning/test2 -B /home/littlehamburger/桌面/C_Language_Learning/test2/cmake-build-debug
+/home/littlehamburger/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/littlehamburger/桌面/C_Language_Learning/gitlearn/ReapositoryTest -B /home/littlehamburger/桌面/C_Language_Learning/gitlearn/ReapositoryTest/cmake-build-debug
+CMake Deprecation Warning:
+  Support for "Extra Generators" like
+
+    CodeBlocks
+
+  is deprecated and will be removed from a future version of CMake.  IDEs may
+  use the cmake-file-api(7) to view CMake-generated project build trees.
+
+
 -- The C compiler identification is GNU 13.2.1
 -- The CXX compiler identification is GNU 13.2.1
 -- Detecting C compiler ABI info
@@ -11,6 +20,6 @@
 -- Check for working CXX compiler: /usr/bin/c++ - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (0.4s)
+-- Configuring done (0.6s)
 -- Generating done (0.0s)
--- Build files have been written to: /home/littlehamburger/桌面/C_Language_Learning/test2/cmake-build-debug
+-- Build files have been written to: /home/littlehamburger/桌面/C_Language_Learning/gitlearn/ReapositoryTest/cmake-build-debug
